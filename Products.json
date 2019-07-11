@@ -1,8 +1,8 @@
 [
   {
-    "ID": "favrfsfbsf",
+    "ID": "NSW-fsfbsf",
     "PRODNAME": "The Legend of Zelda: Breath of the Wild",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "BotW.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "13",
@@ -11,9 +11,9 @@
     "BRAND": "Nintendo Switch"
   },
   {
-    "ID": "hthwibnbin",
+    "ID": "NSW-ibnbin",
     "PRODNAME": "Super Mario Odyssey",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "SMO.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "17",
@@ -22,9 +22,9 @@
     "BRAND": "Nintendo Switch"
   },
   {
-    "ID": "tuubebubibeo",
+    "ID": "NSW-ebubibeo",
     "PRODNAME": "Super Smash Bros. Ultimate",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "SSBU.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "21",
@@ -33,9 +33,9 @@
     "BRAND": "Nintendo Switch"
   },
   {
-    "ID": "giuerbiwvb",
+    "ID": "NSW-rbiwvb",
     "PRODNAME": "Super Mario Maker 2",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "SMM2.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "4",
@@ -44,9 +44,9 @@
     "BRAND": "Nintendo Switch"
   },
   {
-    "ID": "owqoppgnnvq",
+    "ID": "NSW-ppgnnvq",
     "PRODNAME": "Splatoon 2",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "Splatoon2.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "12",
@@ -55,9 +55,9 @@
     "BRAND": "Nintendo Switch"
   },
   {
-    "ID": "buibubwiuwwft",
+    "ID": "PS4-ubwiuwwft",
     "PRODNAME": "Spider-Man",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "Spiderman.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "17",
@@ -66,9 +66,9 @@
     "BRAND": "PS4"
   },
   {
-    "ID": "mmauurgweggvu",
+    "ID": "PS4-urgweggvu",
     "PRODNAME": "Infamous: Second Son",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "InfamousSS.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "5",
@@ -77,9 +77,9 @@
     "BRAND": "PS4"
   },
   {
-    "ID": "uowieutoeurwoie",
+    "ID": "PS4-eutoeurwoie",
     "PRODNAME": "Horizon Zero Dawn",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "HZD.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "12",
@@ -88,9 +88,9 @@
     "BRAND": "PS4"
   },
   {
-    "ID": "qowifbbfaiue",
+    "ID": "PS4-fbbfaiue",
     "PRODNAME": "God of War",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "GoW.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "15",
@@ -99,9 +99,9 @@
     "BRAND": "PS4"
   },
   {
-    "ID": "qouefiqhfbvzz",
+    "ID": "PS4-fiqhfbvzz",
     "PRODNAME": "Bloodborne",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "Bloodborne.jpg",
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "17",
@@ -110,9 +110,9 @@
     "BRAND": "PS4"
   },
   {
-    "ID": "hwthooskgbwekq",
+    "ID": "STM-ooskgbwekq",
     "PRODNAME": "Hollow Knight",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "HK.jpg",
     "COSTPRICE": "14.99",
     "MSRP": "20.99",
     "ONHAND": "11",
@@ -121,9 +121,9 @@
     "BRAND": "PC/Steam"
   },
   {
-    "ID": "powrgbbbaawehgf",
+    "ID": "STM-gbbbaawehgf",
     "PRODNAME": "Terraria",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "Terraria.png",
     "COSTPRICE": "8.99",
     "MSRP": "13.99",
     "ONHAND": "13",
@@ -132,9 +132,9 @@
     "BRAND": "PC/Steam"
   },
   {
-    "ID": "sppfkwieurb",
+    "ID": "STM-kwieurb",
     "PRODNAME": "Slay the Spire",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "StS.jpg",
     "COSTPRICE": "12.99",
     "MSRP": "23.99",
     "ONHAND": "17",
@@ -143,9 +143,9 @@
     "BRAND": "PC/Steam"
   },
   {
-    "ID": "ergwerbrgny",
+    "ID": "STM-erbrgny",
     "PRODNAME": "Baba is You",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "BabaIsYou.png",
     "COSTPRICE": "10.99",
     "MSRP": "21.99",
     "ONHAND": "23",
@@ -154,9 +154,9 @@
     "BRAND": "PC/Steam"
   },
   {
-    "ID": "poiuhewhbgwr",
+    "ID": "STM-hewhbgwr",
     "PRODNAME": "Spelunky",
-    "GRAPHIC": "Graphic",
+    "GRAPHIC": "Spelunky.jpg",
     "COSTPRICE": "4.99",
     "MSRP": "12.99",
     "ONHAND": "5",
