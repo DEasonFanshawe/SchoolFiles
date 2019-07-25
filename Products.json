@@ -6,7 +6,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "13",
-    "BACKORDER": "12",
+    "BACKORDER": "0",
     "DESC": "Awakening after a century with no memory, Link must travel across Hyrule; a vast land ravaged by darkness, to regain his lost memories and strike back at the calamity",
     "BRAND": "Nintendo Switch"
   },
@@ -17,7 +17,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "17",
-    "BACKORDER": "4",
+    "BACKORDER": "0",
     "DESC": "Explore fantastic kingdoms with Mario and Cappy as you search high and low for power moons to fuel the Odyssey and pursue Bowser",
     "BRAND": "Nintendo Switch"
   },
@@ -28,7 +28,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "21",
-    "BACKORDER": "8",
+    "BACKORDER": "0",
     "DESC": "Fight as all your favourite Nintendo characters (and a few special guests) against each other with up to 8 players, or enter the World of Light and face off against the powerful and mysterious entity known as Galeem",
     "BRAND": "Nintendo Switch"
   },
@@ -39,7 +39,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "4",
-    "BACKORDER": "23",
+    "BACKORDER": "0",
     "DESC": "Put on your builder's hat and get ready to create! With all new items, themes, and styles there are an infinite number of courses waiting to be made and enjoyed.",
     "BRAND": "Nintendo Switch"
   },
@@ -50,7 +50,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "12",
-    "BACKORDER": "3",
+    "BACKORDER": "0",
     "DESC": "Play online with friends with this unique turf-based shooter revolving around splattering your team's ink over as much of the stage as possible",
     "BRAND": "Nintendo Switch"
   },
@@ -61,7 +61,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "17",
-    "BACKORDER": "6",
+    "BACKORDER": "0",
     "DESC": "Enjoy web-slinging action as your friendly neigbourhood Spiderman. Swing through the streets of New York as you search down some of Spiderman's greates adversaries after they are mysteriously freed from their cells",
     "BRAND": "PS4"
   },
@@ -72,7 +72,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "5",
-    "BACKORDER": "2",
+    "BACKORDER": "0",
     "DESC": "After a transport vehicle holding dangerous conduits crashes near his home, Delsin Rowe discovers he too is a conduit. Now, to find answers he must travel to a Seattle under lockdwon by the DUP",
     "BRAND": "PS4"
   },
@@ -83,7 +83,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "12",
-    "BACKORDER": "9",
+    "BACKORDER": "0",
     "DESC": "In a post-apocalyptic world roamed by giant machines, a hunter named Aloy must work to uncover her past.",
     "BRAND": "PS4"
   },
@@ -94,7 +94,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "15",
-    "BACKORDER": "4",
+    "BACKORDER": "0",
     "DESC": "Years after his rampage against the Gods of Olympus, Kratos and his son Atreus set out to spread the ashes of their wife and mother from the highest peak in the realms.",
     "BRAND": "PS4"
   },
@@ -105,7 +105,7 @@
     "COSTPRICE": "49.99",
     "MSRP": "79.99",
     "ONHAND": "17",
-    "BACKORDER": "8",
+    "BACKORDER": "0",
     "DESC": "Explore the ruined city of Yharnam, in search of the source of the plague ravaging the inhabitants",
     "BRAND": "PS4"
   },
@@ -116,7 +116,7 @@
     "COSTPRICE": "14.99",
     "MSRP": "20.99",
     "ONHAND": "11",
-    "BACKORDER": "13",
+    "BACKORDER": "0",
     "DESC": "Delve into the depths of Hallownest, an ancient kingdom lost beneath the surface as you search for the mysterious dreamersthat seek to keep something locked away",
     "BRAND": "PC/Steam"
   },
@@ -127,7 +127,7 @@
     "COSTPRICE": "8.99",
     "MSRP": "13.99",
     "ONHAND": "13",
-    "BACKORDER": "6",
+    "BACKORDER": "0",
     "DESC": "Search through forests, deserts, tundras, caves, and dungeons as you scrounge for the necessary equipment and materials to survive the onslaught of creatures in the dangerous land of Terraria",
     "BRAND": "PC/Steam"
   },
@@ -138,7 +138,7 @@
     "COSTPRICE": "12.99",
     "MSRP": "23.99",
     "ONHAND": "17",
-    "BACKORDER": "3",
+    "BACKORDER": "0",
     "DESC": "Combining the deck building genre with the mechanics of a roguelite, Slay the Spire is a game like no other. Climb floors, face monstrous enemies, and try to build a deck strong enough to take on the Heart of the Spire",
     "BRAND": "PC/Steam"
   },
@@ -149,7 +149,7 @@
     "COSTPRICE": "10.99",
     "MSRP": "21.99",
     "ONHAND": "23",
-    "BACKORDER": "1",
+    "BACKORDER": "0",
     "DESC": "Baba is You is a puzzle game where the rules you have to obey are a part of the game you can interact with. Rather than working within the bounds of the rules the game gives you, you must instead modify the rules themselves to accomplish your goals.",
     "BRAND": "PC/Steam"
   },
@@ -160,7 +160,7 @@
     "COSTPRICE": "4.99",
     "MSRP": "12.99",
     "ONHAND": "5",
-    "BACKORDER": "2",
+    "BACKORDER": "0",
     "DESC": "Delve into an ancient temple full of traps and monsters on the search for treasure. Learn from your mistakes, as the entire layout of the temple will change every time you enter. Quick reactions and familiarity with the dangers below are your greatest tools to survive.",
     "BRAND": "PC/Steam"
   }
